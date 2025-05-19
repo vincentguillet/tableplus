@@ -1,0 +1,28 @@
+[
+  {
+    "GridRowNumber": "6C7086",
+    "GridRowNumbers": "6C7086",
+    "SQLNumber": "CBA6F7",
+    "SQLBacktickQuote": "F9E2AF",
+    "GridModified": "FAB387",
+    "SQLBracketQuote": "EBA0AC",
+    "GridDeleted": "EBA0AC",
+    "GridRowDateTime": "CDD6F4",
+    "GridAdded": "A6E3A1",
+    "GridRowString": "CDD6F4",
+    "GridRowOther": "CDD6F4",
+    "SQLKeyword": "89B4FA",
+    "SQLOther": "CDD6F4",
+    "SQLErrorHighlight": "FAB387",
+    "GridRowBool": "CDD6F4",
+    "SQLCurrentQuery": "585B70",
+    "GridSelection": "F38BA8",
+    "SQLSingleQuote": "F38BA8",
+    "SQLSelectedTextBackground": "6C7086",
+    "SQLDoubleQuote": "EBA0AC",
+    "SQLComment": "A6E3A1",
+    "SQLInvisibleCharacter": "BAC2DE",
+    "base": "dark",
+    "name": "Catppuccin Mocha"
+  }
+]

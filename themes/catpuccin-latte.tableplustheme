@@ -1,0 +1,28 @@
+[
+  {
+    "GridRowNumber": "9CA0B0",
+    "GridRowNumbers": "9CA0B0",
+    "SQLNumber": "8839EF",
+    "SQLBacktickQuote": "DF8E1D",
+    "GridModified": "FE640B",
+    "SQLBracketQuote": "E64553",
+    "GridDeleted": "E64553",
+    "GridRowDateTime": "4C4F69",
+    "GridAdded": "40A02B",
+    "GridRowString": "4C4F69",
+    "GridRowOther": "4C4F69",
+    "SQLKeyword": "1E66F5",
+    "SQLOther": "4C4F69",
+    "SQLErrorHighlight": "FE640B",
+    "GridRowBool": "4C4F69",
+    "SQLCurrentQuery": "BCC0CC",
+    "GridSelection": "D20F39",
+    "SQLSingleQuote": "D20F39",
+    "SQLSelectedTextBackground": "9CA0B0",
+    "SQLDoubleQuote": "E64553",
+    "SQLComment": "40A02B",
+    "SQLInvisibleCharacter": "5C5F77",
+    "base": "light",
+    "name": "Catppuccin Latte"
+  }
+]

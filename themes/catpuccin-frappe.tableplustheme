@@ -1,0 +1,28 @@
+[
+  {
+    "GridRowNumber": "737994",
+    "GridRowNumbers": "737994",
+    "SQLNumber": "CA9EE6",
+    "SQLBacktickQuote": "E5C890",
+    "GridModified": "EF9F76",
+    "SQLBracketQuote": "EA999C",
+    "GridDeleted": "EA999C",
+    "GridRowDateTime": "C6D0F5",
+    "GridAdded": "A6D189",
+    "GridRowString": "C6D0F5",
+    "GridRowOther": "C6D0F5",
+    "SQLKeyword": "8CAAEE",
+    "SQLOther": "C6D0F5",
+    "SQLErrorHighlight": "EF9F76",
+    "GridRowBool": "C6D0F5",
+    "SQLCurrentQuery": "5C5F77",
+    "GridSelection": "E78284",
+    "SQLSingleQuote": "E78284",
+    "SQLSelectedTextBackground": "737994",
+    "SQLDoubleQuote": "EA999C",
+    "SQLComment": "A6D189",
+    "SQLInvisibleCharacter": "B5BFE2",
+    "base": "dark",
+    "name": "Catppuccin Frappe"
+  }
+]

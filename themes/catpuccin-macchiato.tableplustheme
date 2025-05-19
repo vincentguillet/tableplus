@@ -1,0 +1,28 @@
+[
+  {
+    "GridRowNumber": "6E738D",
+    "GridRowNumbers": "6E738D",
+    "SQLNumber": "C6A0F6",
+    "SQLBacktickQuote": "EED49F",
+    "GridModified": "F5A97F",
+    "SQLBracketQuote": "EE99A0",
+    "GridDeleted": "EE99A0",
+    "GridRowDateTime": "CAD3F5",
+    "GridAdded": "A6DA95",
+    "GridRowString": "CAD3F5",
+    "GridRowOther": "CAD3F5",
+    "SQLKeyword": "8AADF4",
+    "SQLOther": "CAD3F5",
+    "SQLErrorHighlight": "F5A97F",
+    "GridRowBool": "CAD3F5",
+    "SQLCurrentQuery": "5B6078",
+    "GridSelection": "ED8796",
+    "SQLSingleQuote": "ED8796",
+    "SQLSelectedTextBackground": "6E738D",
+    "SQLDoubleQuote": "EE99A0",
+    "SQLComment": "A6DA95",
+    "SQLInvisibleCharacter": "B8C0E0",
+    "base": "dark",
+    "name": "Catppuccin Macchiato"
+  }
+]
